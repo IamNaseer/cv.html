@@ -1,2 +1,2 @@
- cv.html
+ /cv.html
 
